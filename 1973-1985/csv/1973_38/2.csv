@@ -1,44 +1,42 @@
 Part,Change,Page
-| Part         | Change                                                       | Page   |
-|--------------|--------------------------------------------------------------|--------|
-| Chapter II   | (b) amended                                                   | 14913  |
-| 213.104      | Added                                                         | 14913  |
-| 216          | Appendix A revised                                            | 27831  |
-| 217.1        | (e)(3) added                                                  | 34457  |
-| 217.4        | (d) revised                                                   | 18641  |
-| 217.4        | (d) amended                                                   | 20066, 23513 |
-| 217.4        | (e) redesignated as (f); new (e) added                        | 26109  |
-| 217.5        | (c)(1) amended; (c)(3) revised; (c)(4) added                  | 34457  |
-| 217.6        | (e), (f), and (g) redesignated as (f), (g), and (h); new (e) added | 26109  |
-| 217.6        | (i) added                                                     | 34457  |
-| 217.7        | (a)(1) revised                                                | 13728  |
-| 217.7        | Revised                                                       | 18641, 19908, 29461 |
-| 217.7        | (a) revised                                                   | 20442  |
-| 217.7        | (c) revised                                                   | 34457  |
-| 217.102      | Removed                                                       | 23512  |
-| 217.122-217.123| Removed                                                     | 23512  |
-| 217.137      | (a) revised                                                   | 16029  |
-| 217.138      | Added                                                         | 35231  |
-| 220.3        | (b)(2) amended; (d)(5) revised                                | 13548  |
-| 220.4        | (c)(8) revised                                                | 1501   |
-| 220.6        | (l) added                                                     | 34988  |
-| 220.8        | (a)(1) and (f) revised                                        | 13549  |
-| 220.126      | Added                                                         | 5237   |
-| 220.127      | Added                                                         | 11066  |
-| 220.128      | Added                                                         | 12098  |
-| 220.129      | Added                                                         | 16652  |
-| 221.3        | (l) revised                                                   | 13549  |
-| 221.3        | (w) corrected                                                 | 18363  |
-| 221.4        | (a) revised                                                   | 13549  |
-| 221.122      | Added                                                         | 5237   |
-| 225.4        | (a)(11) added                                                 | 32126  |
-| 225.129      | Added                                                         | 32126  |
-| 225.130      | Added                                                         | 35231  |
-| 226.2        | (u) revised                                                   | 18457  |
-| 226.6        | (a) revised                                                   | 18457  |
-| 226.8        | (b)(7) revised                                                | 19814  |
-| 226.10       | (c) and (d) revised                                           | 18457  |
-| 226.101      | Added                                                         | 18458  |
-| 226.506      | Added                                                         | 14743  |
-| 226.818      | Added                                                         | 12202  |
-| 226.819      | Added                                                         | 23513  |
+213.7,"(b) amended",14913
+213.104,"Added",14913
+216,"Appendix A revised",27831
+217.1,"(e)(3) added",34457
+217.4,"(d) revised",18641
+217.4,"(d) amended","20066, 23513"
+217.4,"(e) redesignated as (f); new (e) added",26109
+217.5,"(c)(1) amended; (c)(3) revised; (c)(4) added",34457
+217.6,"(e), (f), and (g) redesignated as (f), (g), and (h); new (e) added",26109
+217.6,"(i) added",34457
+217.7,"(a)(1) revised",13728
+217.7,"Revised","18641, 19908, 29461"
+217.7,"(a) revised",20442
+217.7,"(c) revised",34457
+217.102,"Removed",23512
+217.122-217.123,"Removed",23512
+217.137,"(a) revised",16029
+217.138,"Added",35231
+220.3,"(b)(2) amended; (d)(5) revised",13548
+220.4,"(c)(8) revised",1501
+220.6,"(l) added",34988
+220.8,"(a)(1) and (f) revised",13549
+220.126,"Added",5237
+220.127,"Added",11066
+220.128,"Added",12098
+220.129,"Added",16652
+221.3,"(l) revised",13549
+221.3,"(w) corrected",18363
+221.4,"(a) revised",13549
+221.122,"Added",5237
+225.4,"(a)(11) added",32126
+225.129,"Added",32126
+225.130,"Added",35231
+226.2,"(u) revised",18457
+226.6,"(a) revised",18457
+226.8,"(b)(7) revised",19814
+226.10,"(c) and (d) revised",18457
+226.101,"Added",18458
+226.506,"Added",14743
+226.818,"Added",12202
+226.819,"Added",23513

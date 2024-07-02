@@ -1,23 +1,18 @@
 Part,Change,Page
-Here is the 3-column CSV format:
-""
-```csv
-Code of Federal Regulations, Change, Page of Federal Register
-(a)(6)(ii), revised, 11255
-(a)(4), revised, 19774, 24220
-(a)(12)(ii), revised, 18642
-225.123, (d) removed (see clarification at 40 FR 13304), 11255
-225.131, Added, 8318, 21120
-225.132, Added, 35128
-226.6, (j) and (k) removed; (l) redesignated as (j), 2755
-226.7, (f) removed, 2755
-226.602, Removed, 2755
-226.605, Removed, 2755
-250.250, Added, 28975
-250.260, Added, 45254
-265.2, (f)(29) added, 10236
-, (f)(22), (24), and (28) revised; (f)(30) added, 13070
-, (f)(31) and (32) added, 28517
-, (c)(13) and (18) removed; (c)(14) through (.17) redesignated as (c)(13) through (16); (h) added, 30829
-270.4, (c)(2) revised, 11873
-```
+225.4(a)(6)(ii),"revised",11255
+225.4(a)(4),"revised","19774, 24220"
+225.4(a)(12)(ii),"revised",18642
+225.123,"(d) removed (see clarification at 40 FR 13304)",11255
+225.131,"Added","8318, 21120"
+225.132,"Added",35128
+226.6,"(j) and (k) removed; (l) redesignated as (j)",2755
+226.7,"(f) removed",2755
+226.602,"Removed",2755
+226.605,"Removed",2755
+250.250,"Added",28975
+250.260,"Added",45254
+265.2,"(f)(29) added",10236
+265.2,"(f)(22), (24), and (28) revised; (f)(30) added",13070
+265.2,"(f)(31) and (32) added",28517
+265.2,"(c)(13) and (18) removed; (c)(14) through (.17) redesignated as (c)(13) through (16); (h) added",30829
+270.4,"(c)(2) revised",11873

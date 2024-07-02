@@ -1,33 +1,29 @@
 Part,Change,Page
-Sure, here is the formatted table:
-""
-| Part | Change Description | Page |
-|------|---------------------|------|
-| 201  | Heading revised | 9076 |
-| 201.0 | Redesignated as 201.2 and revised | 9076 |
-| 201.1 | Revised | 9076 |
-| 201.2 | Redesignated as 201.3 and revised | 9077 |
-| 201.3 | Redesignated as 201.4 and revised | 9077 |
-| 201.4 | Redesignated as 201.5 | 9077 |
-| 201.5 | Redesignated from 201.4 and revised | 9077 |
-| 201.6 | Revised | 9077 |
-| 201.7 | Added | 9077 |
-| 201.51 | Revised | 2330, 6988, 12733, 14092, 16214, 19016, 23772 |
-| | Corrected | 14369 |
-| 201.52 | Revised | 2330, 6988, 12733, 14092, 16214, 19016, 23772 |
-| | Corrected | 14369 |
-| 201.53 | Revised | 2330, 6988, 12733, 14092, 16214, 19016, 23772 |
-| | Corrected | 14369 |
-| 204.1 | Introductory text of (f) revised; (f)(5) added; (g) amended | 16651, 33456 |
-| 204.5 | (a)(1)(ii) and (2)(ii) and (c) revised | 13727 |
-| | (a)(1)(iii) and (2)(iii) revised | 18869 |
-| | (a)(1)(ii) and (2)(ii) revised | 19908, 25985, 34457 |
-| 204.117 | Added | 16651 |
-| 207.4 | (a)(2)(i) revised | 26905 |
-| | (g) added | 34652 |
-| 207.5 | (a) revised | 13548 |
-| 211.108 | Added | 3585 |
-| | (a) corrected | 4571 |
-| 211.109 | Added | 5837 |
-| 211.110 | Added | 14913 |
-| 213.7 | Revised | 13728 |
+201,"Heading revised",9076
+201.0,"Redesignated as 201.2 and revised",9076
+201.1,"Revised",9076
+201.2,"Redesignated as 201.3 and revised",9077
+201.3,"Redesignated as 201.4 and revised",9077
+201.4,"Redesignated as 201.5",9077
+201.5,"Redesignated from 201.4 and revised",9077
+201.6,"Revised",9077
+201.7,"Added",9077
+201.51,"Revised","2330, 6988, 12733, 14092, 16214, 19016, 23772"
+201.51,"Corrected",14369
+201.52,"Revised","2330, 6988, 12733, 14092, 16214, 19016, 23772"
+201.52,"Corrected",14369
+201.53,"Revised","2330, 6988, 12733, 14092, 16214, 19016, 23772"
+201.53,"Corrected",14369
+204.1,"Introductory text of (f) revised; (f)(5) added; (g) amended","16651, 33456"
+204.5,"(a)(1)(ii) and (2)(ii) and (c) revised",13727
+204.5,"(a)(1)(iii) and (2)(iii) revised",18869
+204.5,"(a)(1)(ii) and (2)(ii) revised","19908, 25985, 34457"
+204.117,"Added",16651
+207.4,"(a)(2)(i) revised",26905
+207.4,"(g) added",34652
+207.5,"(a) revised",13548
+211.108,"Added",3585
+211.108,"(a) corrected",4571
+211.109,"Added",5837
+211.110,"Added",14913
+213.7,"Revised",13728

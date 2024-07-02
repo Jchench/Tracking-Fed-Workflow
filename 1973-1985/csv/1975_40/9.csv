@@ -1,38 +1,36 @@
 Part,Change,Page
-```csv
-226.2,"""Certain paragraphs redesignated (See conversion table)""",43201
-226.2,"""(mm) through (qq) added""",50508
-226.3,"""(e) added""",30085
-226.2,"""Footnotes 1 and 1a redesignated as 1a and 1b; new footnote 1 added to 226.2""",43202
-226.4,"""(i) added""",43202
-226.6,"""(b) revised; (k) added""",43203
-226.6,"""(b)(2)(i) and (ii) corrected""",54424
-226.7,"""(a)(1) and (b)(9) revised""",30086
-226.7,"""(f) added""",43200
-226.7,"""(a)(9)"," (b)(1)(x) and (b)(2) added""",43204
-226.7,"""(b) introductory text redesignated as (b)(1) and (b)(1) through (9) redesignated as (b)(1)(i) through (ix); redesignated (b)(1)(i)", (ii), (iii), (v)," and (ix) revised""",43204
-226.7,"""(c)(1) and (2) revised; (c)(3) redesignated as (c)(4); new (c)(3) added""",43204
-226.7,"""(d) and (e) redesignated as (e) and (f); new (d)", (g), (h)," and (i) added; redesignated (e) revised""",43204
-226.7,"""(f) correctly designated as (j)""",45158
-226.8,"""(n) and (o)(6) revised; (q) added""",43207
-226.8,"""(a) revised""",50508
-226.8,"""(r) revised; eff. 1-31-76""",50508
-226.8,"""(n)(1) corrected""",54424
-226.9,"""(g)(5) and (h) added""",30086
-226.10,"""(f) added""",30085
-226.11,"""(a)(2) and (3) revised""",43207
-226.12,"""(a) and (b) revised""",43207
-226.13,"""(i) added""",30086
-226.13,"""Revised""",43207
-226.14,"""Added""",432091
-226.102,"""Added""",21471
-226.703,"""Revised""",1681
-226.820,"""Added""",55635
-250.143,"""Added""",12252
-261.3,"""(b) and (d) revised; (f) added""",7620
-261.4,"""(d) revised; (e)"," (f) and (g) added""",7621
-261.6,"""(a)(1) and (4) revised; (d) removed""",7621
-261a,"""Added""",45617
-265.1a,"""Revised""",1506
-265.1a,"""(b) added""",13477
-```
+226.2,"Certain paragraphs redesignated (See conversion table)",43201
+226.2,"(mm) through (qq) added",50508
+226.3,"(e) added",30085
+226.2,"Footnotes 1 and 1a redesignated as 1a and 1b; new footnote 1 added to 226.2",43202
+226.4,"(i) added",43202
+226.6,"(b) revised; (k) added",43203
+226.6,"(b)(2)(i) and (ii) corrected",54424
+226.7,"(a)(1) and (b)(9) revised",30086
+226.7,"(f) added",43200
+226.7,"(a)(9), (b)(1)(x) and (b)(2) added",43204
+226.7,"(b) introductory text redesignated as (b)(1) and (b)(1) through (9) redesignated as (b)(1)(i) through (ix); redesignated (b)(1)(i), (ii), (iii), (v), and (ix) revised",43204
+226.7,"(c)(1) and (2) revised; (c)(3) redesignated as (c)(4); new (c)(3) added",43204
+226.7,"(d) and (e) redesignated as (e) and (f); new (d), (g), (h), and (i) added; redesignated (e) revised",43204
+226.7,"(f) correctly designated as (j)",45158
+226.8,"(n) and (o)(6) revised; (q) added",43207
+226.8,"(a) revised",50508
+226.8,"(r) revised; eff. 1-31-76",50508
+226.8,"(n)(1) corrected",54424
+226.9,"(g)(5) and (h) added",30086
+226.10,"(f) added",30085
+226.11,"(a)(2) and (3) revised",43207
+226.12,"(a) and (b) revised",43207
+226.13,"(i) added",30086
+226.13,"Revised",43207
+226.14,"Added",432091
+226.102,"Added",21471
+226.703,"Revised",1681
+226.820,"Added",55635
+250.143,"Added",12252
+261.3,"(b) and (d) revised; (f) added",7620
+261.4,"(d) revised; (e), (f) and (g) added",7621
+261.6,"(a)(1) and (4) revised; (d) removed",7621
+261a,"Added",45617
+265.1a,"Revised",1506
+265.1a,"(b) added",13477
