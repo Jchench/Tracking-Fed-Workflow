@@ -1,0 +1,20 @@
+Part,Change,Page
+Sure, here is how the information would look formatted as a 3-column CSV:
+""
+```csv
+Part, Change, Federal Register Page
+201.2, (e) revised, 35128
+201.3, (b) revised, 39031
+201.51, Revised, 16873, 44422
+201.52, Revised, 16873, 38087, 44422
+201.53, Revised, 16873, 38087, 44422
+202, Removed, 11873
+203, Removed, 11873
+204.1, (f)(5) amended, 34020
+204.1, (e)(1) revised, 43056
+204.5, (a)(1)(ii) and (2)(ii) revised, 33202
+204.5, (a)(1)(ii) and (2)(ii) and (iii) revised, 40581, 40939
+```
+""
+Note: Each change corresponding to a Federal Register page is separated by commas within the CSV.
+""

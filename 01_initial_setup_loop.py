@@ -2,6 +2,7 @@ import json
 import base64
 import requests
 import os
+import csv
 
 # Function to encode the image
 def encode_image(image_path):
@@ -21,7 +22,7 @@ def verify_image(image_path):
     return True
 
 # Folder containing the images
-image_folder = "PL104_208"
+image_folder = "1973-1985/screenshots/1975_40"
 
 # Get list of image paths from the folder
 image_paths = [os.path.join(image_folder, file) for file in os.listdir(image_folder) if file.lower().split('.')[-1] in ['jpeg', 'png', 'gif', 'webp']]
@@ -34,6 +35,13 @@ headers = {
     "Content-Type": "application/json",
     "Authorization": f"Bearer {api_key}"
 }
+
+# Extract the base folder name for output
+base_folder_name = os.path.basename(image_folder)
+
+# Define the new folder path
+csv_folder_path = os.path.join('1973-1985/csv', base_folder_name)
+os.makedirs(csv_folder_path, exist_ok=True)
 
 # Process each image in the folder
 for image_path in image_paths:
@@ -48,7 +56,7 @@ for image_path in image_paths:
                 "content": [
                     {
                         "type": "text",
-                        "text": "Transcribe this image. Do not include any other text besides the transcription."
+                        "text": "Format this for me as a 3 column csv. The first number refers to the part of the code of federal regulations. Column 2 is what was changed. Column 3 is the Page of the Federal Register where it happened. Do not generate additional text other than the csv."
                     },
                     {
                         "type": "image_url",
@@ -75,17 +83,16 @@ for image_path in image_paths:
             # Extract the content from the response
             content = response_data['choices'][0]['message']['content']
 
-            # Define the folder and file path for saving the transcription
-            folder_path = 'clean/PL104_208_results'
-            os.makedirs(folder_path, exist_ok=True)
+            # Define the CSV file path for saving the transcription
+            file_name = os.path.splitext(os.path.basename(image_path))[0] + '.csv'
+            file_path = os.path.join(csv_folder_path, file_name)
 
-            # Use the original image file name for the text file
-            file_name = os.path.splitext(os.path.basename(image_path))[0] + '.txt'
-            file_path = os.path.join(folder_path, file_name)
-
-            # Save the content to a text file
-            with open(file_path, 'w') as file:
-                file.write(content)
+            # Save the content to a CSV file
+            with open(file_path, 'w', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(["Part", "Change", "Page"])
+                for line in content.split('\n'):
+                    writer.writerow(line.split(','))
 
             print(f"Content saved to {file_path}")
         else:
@@ -94,3 +101,4 @@ for image_path in image_paths:
 
     except ValueError as e:
         print(f"Error with image {image_path}: {e}")
+
