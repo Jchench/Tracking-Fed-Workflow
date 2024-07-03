@@ -20,6 +20,8 @@ for (file in file_list) {
 }
 
 # Combine all data frames into one
-combined_ <- do.call(rbind, data_frames)
+combined <- do.call(rbind, data_frames)
 
-write.csv(combined_, file = "1973-1985/csv/combine/1985_50.csv")
+
+
+write.csv(combined, file = "1973-1985/csv/combine/1985_50.csv")
