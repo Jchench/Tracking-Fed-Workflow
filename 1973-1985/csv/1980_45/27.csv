@@ -1,42 +1,40 @@
 Part,Change,Page
-```csv
-12 CFR, (f)(1) introductory text and (2) introductory text revised; (f)(3) added, 17925
-204.5 (a) introductory text and (e) amended; (d) revised, 19220
-204.5 (f) revised, 37411
-204.5 (f)(3)(i)(B) corrected, 39495
-204.5 (a)(1)(ii) and (2)(ii) amended; (f) removed, 46063
-204.5 (a)(1)(ii) and (2)(ii) revised, 58821
-204.6 (b)(1) amended, 81537
-204.120 Added, 28305
-204.121 Added, 69879
-205.2 Heading revised; (g) amended; (m) added, 8263
-205.3 (d)(4) added, 66347
-205.4 (c) and (d) redesignated as (b) and (c), 8263
-205.5 (a)(3) revised, 8263
-205.7 (a) introductory text revised, 8263
-205.8 (a) amended, 8264
-205.9 Added, 8264
-205.9 (b)(1)(iv) amended; (b)(3) revised; (f), (g), and footnote 4a added, 25383
-205.9 (a)(3) footnote 3 amended, 31706
-205.9 (a)(3) footnote 3, (b)(1)(iv)(A) footnote 5, and (b)(1)(v) revised, 66347
-205.10 (a) added, 8265
-205.11 Added, 8265
-205.13 (b)(2)(i) amended; (b)(4) and (c)(2) revised, 8266
-205.14 Added, 8266
-205 Appendix A amended, 8267
-206.7 Revised, 65184
-206.71 Revised, 65189
-207 OTC margin stock list, 24107, 66779
-207.111 Added, 44256
-210 Revised, 68634
-211.1–211.7 Designated as Subpart A, 67058
-211.4 (d) revised, 19221
-211.5 (c)(1)(ii) revised; (c)(1)(iii) redesignated as (c)(1)(iv); new (c)(1)(iii) added, 76095
-211.21–211.22 (Subpart B) Added, 67058
-211.23 Added; eff. 1-3-81, 81540
-211.601 Added, 67309
-212 Revised, 24389
-217.0 (c) revised; (d) added, 19221
-217.1 (h) added, 17927
-217.1 (i) and (j) added, 19221
-```
+204.5,"(f)(1) introductory text and (2) introductory text revised; (f)(3) added",17925
+204.5,"(a) introductory text and (e) amended; (d) revised",19220
+204.5,"(f) revised",37411
+204.5,"(f)(3)(i)(B) corrected",39495
+204.5,"(a)(1)(ii) and (2)(ii) amended; (f) removed",46063
+204.5,"(a)(1)(ii) and (2)(ii) revised",58821
+204.6,"(b)(1) amended",81537
+204.120,"Added",28305
+204.121,"Added",69879
+205.2,"Heading revised; (g) amended; (m) added",8263
+205.3,"(d)(4) added",66347
+205.4,"(c) and (d) redesignated as (b) and (c)",8263
+205.5,"(a)(3) revised",8263
+205.7,"(a) introductory text revised",8263
+205.8,"(a) amended",8264
+205.9,"Added",8264
+205.9,"(b)(1)(iv) amended; (b)(3) revised; (f), (g), and footnote 4a added",25383
+205.9,"(a)(3) footnote 3 amended",31706
+205.9,"(a)(3) footnote 3, (b)(1)(iv)(A) footnote 5, and (b)(1)(v) revised",66347
+205.10,"(a) added",8265
+205.11,"Added",8265
+205.13,"(b)(2)(i) amended; (b)(4) and (c)(2) revised",8266
+205.14,"Added",8266
+205 Appendix,"A amended",8267
+206.7,"Revised",65184
+206.71,"Revised",65189
+207,"OTC margin stock list","24107, 66779"
+207.111,"Added",44256
+210,"Revised",68634
+211.1–211.7,"Designated as Subpart A",67058
+211.4,"(d) revised",19221
+211.5,"(c)(1)(ii) revised; (c)(1)(iii) redesignated as (c)(1)(iv); new (c)(1)(iii) added",76095
+211.21–211.22 (Subpart B),"Added",67058
+211.23,"Added; eff. 1-3-81",81540
+211.601,"Added",67309
+212,"Revised",24389
+217.0,"(c) revised; (d) added",19221
+217.1,"(h) added",17927
+217.1,"(i) and (j) added",19221
