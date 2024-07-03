@@ -1,45 +1,43 @@
 Part,Change,Page
-```csv
-12,OTC margin stock list corrected,28229
-12,OTC margin stock list corrected,48219
-12,Reorganization table,32978
-12,220.1-220.18 Revised,23165
-12,Revision effective date deferred to 3-31-84,51768
-12,220.2 (s) corrected,34945
-12,220.12 (a), (b)(4)(i), and (6) corrected,26590
-12,220.17 (a)(3) and (9) corrected,34945
-12,221 OTC margin stock list..6095,26588
-12,221 OTC margin stock list..6095,45533
-12,OTC margin stock list corrected,28229
-12,OTC margin stock list corrected,48219
-12,Reorganization table,48797
-12,221.1-221.8 Revised,35076
-12,221.1 (b) corrected,37361
-12,221.5 (c)(10) corrected,37361
-12,224 OTC margin stock list..6095,26588
-12,224 OTC margin stock list..6095,45533
-12,OTC margin stock list corrected,28229
-12,OTC margin stock list corrected,48219
-12,Revised; eff. 1-23-84,56572
-12,Revision redesignation table; eff. 1-23-84,57107
-12,225.4 (a)(15) added,37006
-12,225.142 Revised,7720
-12,226 Preemption determinations,4454
-12,Preemption determinations; eff. 10-1-84,43672
-12,Preemption determinations amended,57266
-12,226.2 (a)(3), (17)(ii), and footnote 2 removed; (a)(17)(iii), (iv), and (v) redesignated as (a)(17)(ii), (iii), and (iv),14886
-12,226.3 (f) added,14886
-12,226.14 Footnote 31a amended,14886
-12,226.22 Footnote 45a amended,14886
-12,226 Supplement I amended,14886
-12,250.164 Added,28975
-12,250.165 Added; eff. 6-10-84,57109
-12,265.2 (h)(2) revised,4458
-12,(f)(6) revised,5536
-12,(f)(22)(i) through (v) revised; (f)(22)(vi) through (xiii) removed,34016
-12,(f)(57) added,39047
-12,(f)(22)(iv) and (v) corrected; (f)(22)(vi) correctly added,39215
-12,(a)(2) revised; (f)(58) added,56939
-12,269 Revised,32331
-12,Policy statement,32334
-```
+,"OTC margin stock list corrected",28229
+,"OTC margin stock list corrected",48219
+,"Reorganization table",32978
+220.1-220.18,"Revised",23165
+,"Revision effective date deferred to 3-31-84",51768
+220.2,"(s) corrected",34945
+220.12,"(a), (b)(4)(i), and (6) corrected",26590
+220.17,"(a)(3) and (9) corrected",34945
+221,"OTC margin stock list...6095, 26588"
+221,"OTC margin stock list...6095, 45533"
+,"OTC margin stock list corrected",28229
+,"OTC margin stock list corrected",48219
+,"Reorganization table",48797
+221.1-221.8,"Revised",35076
+221.1,"(b) corrected",37361
+221.5,"(c)(10) corrected",37361
+224,"OTC margin stock list...6095, 26588"
+224,"OTC margin stock list...6095, 45533"
+,"OTC margin stock list corrected",28229
+,"OTC margin stock list corrected",48219
+,"Revised; eff. 1-23-84",56572
+,"Revision redesignation table; eff. 1-23-84",57107
+225.4,"(a)(15) added",37006
+225.142,"Revised",7720
+226,"Preemption determinations",4454
+,"Preemption determinations; eff. 10-1-84",43672
+,"Preemption determinations amended",57266
+226.2,"(a)(3), (17)(ii), and footnote 2 removed; (a)(17)(iii), (iv), and (v) redesignated as (a)(17)(ii), (iii), and (iv)",14886
+226.3,"(f) added",14886
+226.14,"Footnote 31a amended",14886
+226.22,"Footnote 45a amended",14886
+,"Supplement I amended",14886
+250.164,"Added",28975
+250.165,"Added; eff. 6-10-84",57109
+265.2,"(h)(2) revised",4458
+,"(f)(6) revised",5536
+,"(f)(22)(i) through (v) revised; (f)(22)(vi) through (xiii) removed",34016
+,"(f)(57) added",39047
+,"(f)(22)(iv) and (v) corrected; (f)(22)(vi) correctly added",39215
+,"(a)(2) revised; (f)(58) added",56939
+269,"Revised",32331
+,"Policy statement",32334

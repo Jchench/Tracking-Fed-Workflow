@@ -1,40 +1,38 @@
 Part,Change,Page
-```csv
-204.7,(a)(1) amended; eff. 2-2-84,44708
-204.9,(a) revised,18848
-204.9,(a)(1) introductory text and (2) revised,55206
-204.9,(a)(1) revised,55210
-204.9,Technical correction,57909
-204.123,Added,8987
-205.3,(g) added,44713
-205.9,(a)(3), (c) and (d) amended; (h) and (i) added,44713
-205.11,(c)(4) added,44713
-206.44,Form F-4 corrected,4231
-207,OTC margin stock list,8988, 30719, 44241
-207,OTC margin stock list; correction,46839
-207.1,(h) and (i) revised,2982
-207.2,(i) revised,2982
-207.5,(c) and (f) amended,2983
-207.5,(d)(1), (4), (7), (8), and (9), and (e)(1), (4), (5), (6), and (7) revised,21758
-208.8,(f)(2) revised,14684
-208.8,(d) footnote 6a revised,18122
-208.9,(d) revised,19321
-211,Authority citation,11819
-211.4,(e)(4)(xii) and (xiii) amended; (e)(4)(xiv) and (xv) added,11819
-211.4,(c)(1) revised,51095
-211.5,(c)(2) amended,51095
-211.5,(c)(2) corrected,54057
-211.23,(h)(3) removed; (a)(3) revised,51095
-212,Authority citation,47371
-212.4,(b)(5) revised; (c) added,47371
-212.5,Revised,47371
-212.6,(a) removed; (b)(1) and (2) redesignated as new (a) and (b),47372
-213,Compliance date deferred to 10-1-82,756
-215,Supplement I added,20554
-215.5,(c) revised,49348
-217.1,(f)(2) revised,37880
-217.1,(b) and (h) revised, (c) and (d), and footnote 2 and 3 removed; footnotes 4 through 8a redesignated as 2 through 6a,39657
-217.1,(e)(3) revised,54759
-217.3,(f) revised,39657
-217.4,(d) temporarily suspended in part,2857
-```
+204.7,"(a)(1) amended; eff. 2-2-84",44708
+204.9,"(a) revised",18848
+204.9,"(a)(1) introductory text and (2) revised",55206
+204.9,"(a)(1) revised",55210
+204.9,"Technical correction",57909
+204.123,"Added",8987
+205.3,"(g) added",44713
+205.9,"(a)(3), (c) and (d) amended; (h) and (i) added",44713
+205.11,"(c)(4) added",44713
+206.44,"Form F-4 corrected",4231
+207,"OTC margin stock list","8988, 30719, 44241"
+207,"OTC margin stock list; correction",46839
+207.1,"(h) and (i) revised",2982
+207.2,"(i) revised",2982
+207.5,"(c) and (f) amended",2983
+207.5,"(d)(1), (4), (7), (8), and (9), and (e)(1), (4), (5), (6), and (7) revised",21758
+208.8,"(f)(2) revised",14684
+208.8,"(d) footnote 6a revised",18122
+208.9,"(d) revised",19321
+211,"Authority citation",11819
+211.4,"(e)(4)(xii) and (xiii) amended; (e)(4)(xiv) and (xv) added",11819
+211.4,"(c)(1) revised",51095
+211.5,"(c)(2) amended",51095
+211.5,"(c)(2) corrected",54057
+211.23,"(h)(3) removed; (a)(3) revised",51095
+212,"Authority citation",47371
+212.4,"(b)(5) revised; (c) added",47371
+212.5,"Revised",47371
+212.6,"(a) removed; (b)(1) and (2) redesignated as new (a) and (b)",47372
+213,"Compliance date deferred to 10-1-82",756
+215,"Supplement I added",20554
+215.5,"(c) revised",49348
+217.1,"(f)(2) revised",37880
+217.1,"(b) and (h) revised, (c) and (d), and footnote 2 and 3 removed; footnotes 4 through 8a redesignated as 2 through 6a",39657
+217.1,"(e)(3) revised",54759
+217.3,"(f) revised",39657
+217.4,"(d) temporarily suspended in part",2857

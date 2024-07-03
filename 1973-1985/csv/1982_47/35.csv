@@ -1,36 +1,34 @@
 Part,Change,Page
-```csv
-201.51,Revised,35465
-201.51,Revised,36609
-201.51,Revised,37076
-201.51,Revised,39130
-201.51,Revised,47534
-201.51,Revised,54424
-201.51,Revised,57483
-201.52,Revised,35465
-201.52,Revised,36609
-201.52,Revised,37076
-201.52,Revised,39130
-201.52,Revised,47534
-201.52,Revised,54424
-201.52,Revised,57483
-202.601,Added eff. 4-1-83,46076
-202.901,Added eff. 4-1-83,46076
-203,Appendix C added,751
-,Exemptions,49954
-,Exemptions,49956
-204.2,(b)(2), (c)(1)(i)(E) and (ii) revised; (c)(1)(iii) added,38105
-204.2,(h) footnote 1 amended; eff. 2-2-84,44707
-204.2,(e)(4) through (6) revised; (e)(7) added,44993
-204.2,(e)(7) revised,52693
-204.2,(b)(2), (d), and (e) revised,55208
-204.2,(e)(1)(viii) confirmed,58212
-204.3,(d)(3) amended,14482
-204.3,(c), (d)(1), (2), and (4), and (h) revised; eff. 2-2-84,44707
-204.3,(a)(3) added,55206
-,Technical correction,57904
-204.4,(e) revised,14482
-204.4,(a) table revised; eff. 2-2-84,44708
-204.4,(b) introductory text and (c) revised,49827
-204.4,(b)(2)(ii) revised,55207
-```
+201.51,"Revised",35465
+201.51,"Revised",36609
+201.51,"Revised",37076
+201.51,"Revised",39130
+201.51,"Revised",47534
+201.51,"Revised",54424
+201.51,"Revised",57483
+201.52,"Revised",35465
+201.52,"Revised",36609
+201.52,"Revised",37076
+201.52,"Revised",39130
+201.52,"Revised",47534
+201.52,"Revised",54424
+201.52,"Revised",57483
+202.601,"Added eff. 4-1-83",46076
+202.901,"Added eff. 4-1-83",46076
+203,"Appendix C added",751
+,"Exemptions",49954
+,"Exemptions",49956
+204.2,"(b)(2), (c)(1)(i)(E) and (ii) revised; (c)(1)(iii) added",38105
+204.2,"(h) footnote 1 amended; eff. 2-2-84",44707
+204.2,"(e)(4) through (6) revised; (e)(7) added",44993
+204.2,"(e)(7) revised",52693
+204.2,"(b)(2), (d), and (e) revised",55208
+204.2,"(e)(1)(viii) confirmed",58212
+204.3,"(d)(3) amended",14482
+204.3,"(c), (d)(1), (2), and (4), and (h) revised; eff. 2-2-84",44707
+204.3,"(a)(3) added",55206
+,"Technical correction",57904
+204.4,"(e) revised",14482
+204.4,"(a) table revised; eff. 2-2-84",44708
+204.4,"(b) introductory text and (c) revised",49827
+204.4,"(b)(2)(ii) revised",55207
