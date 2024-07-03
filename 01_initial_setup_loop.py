@@ -22,7 +22,7 @@ def verify_image(image_path):
     return True
 
 # Folder containing the images
-image_folder = "1973-1985/screenshots/1985_50"
+image_folder = "1986-2000/screenshots/1986_51"
 
 # Get list of image paths from the folder
 image_paths = [os.path.join(image_folder, file) for file in os.listdir(image_folder) if file.lower().split('.')[-1] in ['jpeg', 'png', 'gif', 'webp']]
@@ -40,7 +40,7 @@ headers = {
 base_folder_name = os.path.basename(image_folder)
 
 # Define the new folder path
-csv_folder_path = os.path.join('1973-1985/csv', base_folder_name)
+csv_folder_path = os.path.join('1986-2000/csv', base_folder_name)
 os.makedirs(csv_folder_path, exist_ok=True)
 
 # Process each image in the folder
