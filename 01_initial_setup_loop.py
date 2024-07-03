@@ -22,7 +22,7 @@ def verify_image(image_path):
     return True
 
 # Folder containing the images
-image_folder = "1986-2000/screenshots/1986_51"
+image_folder = "1986-2000/screenshots/2000_65"
 
 # Get list of image paths from the folder
 image_paths = [os.path.join(image_folder, file) for file in os.listdir(image_folder) if file.lower().split('.')[-1] in ['jpeg', 'png', 'gif', 'webp']]

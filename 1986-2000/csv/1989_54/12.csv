@@ -1,0 +1,36 @@
+Part,Change,Page
+```csv
+226.9,"""(d)(2) revised; (e) and (f) added""",13867
+226.9,"""(c)(3) added""",24688
+226.9,"""(e)(1) and (f)(1) corrected""",32954
+226.14,"""(b) revised""",13867
+226.14,"""(b) revised""",24688
+226.15,"""Footnote 36 revised""",24688
+226.16,"""(b) introductory text republished; footnote 36a added""",13867
+226.16,"""(d) added""",24688
+226.16,"""(d)(3) corrected; footnote 36b added""",28665
+226.28,"""(a)(1) amended; (d) added""",13867
+226.28,"""(a) corrected""",32954
+226,"""Supplement I amended""",9421
+226,"""Supplement I corrected""",13455
+226,"""Appendix G amended""",13868,24689
+226,"""Appendix I amended""",53539
+229,"""Policy statement""",13839
+229.2,"""(e)(7)"," (z)(5) and (cc) revised""",13850
+229.13,"""(e)(2) amended""",13850
+229.16,"""(c)(3) amended""",13850
+229.19,"""(e) revised""",13850
+229.31,"""(b) amended""",13850
+229.32,"""(a)(2)(ii) amended; (a)(2)(iii) redesignated as (a)(2)(iv); new (a)(2)(iii) added""",13850
+229.34,"""(a)(1)", (a) concluding text, (b) introductory text, (1)," and concluding text revised""",13850
+229.36,"""Heading revised; (e) added; eff. 2-1-91""",32047
+229.38,"""(d) amended""",13850
+229.38,"""(d) redesignated as (d)(1); new (d) heading and (2) added; eff. 2-1-90""",32047
+229,"""Appendixes A and E amended""",13851
+229,"""Appendix E amended; eff. 2-1-90 and 2-1-91""",32047
+229,"""Appendix F amended""",13838
+262.2,"""(b) amended""",33183
+262.3,"""(a)", (c)," (j)(1)(ii) amended; (j)(3) and (4) removed; (j)(2) revised""",33183
+265.2,"""(f)(49) added""",10139
+265.2,"""(c)(30) revised""",38374
+```
