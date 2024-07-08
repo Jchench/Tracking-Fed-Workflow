@@ -1,35 +1,33 @@
 Part,Change,Page
-```csv
-201,Authority citation revised,29538
-201.51,Revised,29538 44313 60700
-201.52,Revised,29538
-201.52 (b),revised,60700
-203.2,(e)(1) introductory text, (2) and (f) revised,63704
-203.4,(a) introductory text amended; (a)(7) revised,63704
-203.5,(a) and (e) revised,63704
-203,Appendix A amended,63704 63705
-204.9,(a) revised,60703
-205,Authority citation revised,10683
-205.9,(a)(4) revised; interim,61788
-205.15,Added,10683
-205,Appendix A amended,10683
-207,OTC margin stock lists,4549 23124 37651 54381
-208,Authority citation revised,55988 62992 63244
-208.1—208.19 (Subpart A),Footnotes 11, 12 and 13 redesignated as 9, 10 and 11,55988
-208.10,Heading revised; (a), (b) and (c) designation and heading removed,55988
-208.17,(a)(2) amended,55988
-208.21,Added; eff. 1-9-95,63711
-208.22,Added,28761
-208,Appendix A amended,62992 63244
-208,Appendix A amended; eff. 1-17-95,64563
-208,Appendix A amended; eff. 4-1-95,65924
-208,Appendixes A amended and B revised; eff. 4-1-95,65925
-210,Authority citation revised,22965
-210.1,Amended,22965
-210.2,(g) introductory text revised; (p) added,22965
-210.3,(a) amended; (f) added,22965
-210.5,(a) introductory text and (2) revised; (b)(3) amended; (d) added,22965
-210.6,(b) and (c) amended; (b)(1) and (2) revised,22966
-210.9,(a)(5) revised,22966
-210.12,(a) amended; (d) through (g) redesignated as (e) through (h); new (d) and (i) added; (c) introductory text, (2), new (e) concluding text and (h) revised,22966
-```
+201,"Authority citation revised","29538"
+201.51,"Revised","29538, 44313, 60700"
+201.52,"Revised","29538"
+201.52 (b),"revised","60700"
+203.2,"(e)(1) introductory text, (2) and (f) revised","63704"
+203.4,"(a) introductory text amended; (a)(7) revised","63704"
+203.5,"(a) and (e) revised","63704"
+203,"Appendix A amended","63704, 63705"
+204.9,"(a) revised","60703"
+205,"Authority citation revised","10683"
+205.9,"(a)(4) revised; interim","61788"
+205.15,"Added","10683"
+205,"Appendix A amended","10683"
+207,"OTC margin stock lists","4549, 23124, 37651, 54381"
+208,"Authority citation revised","55988, 62992, 63244"
+208.1—208.19 (Subpart A),"Footnotes 11, 12 and 13 redesignated as 9, 10 and 11","55988"
+208.10,"Heading revised; (a), (b) and (c) designation and heading removed","55988"
+208.17,"(a)(2) amended","55988"
+208.21,"Added; eff. 1-9-95","63711"
+208.22,"Added","28761"
+208,"Appendix A amended","62992, 63244"
+208,"Appendix A amended; eff. 1-17-95","64563"
+208,"Appendix A amended; eff. 4-1-95","65924"
+208,"Appendixes A amended and B revised; eff. 4-1-95","65925"
+210,"Authority citation revised","22965"
+210.1,"Amended","22965"
+210.2,"(g) introductory text revised; (p) added","22965"
+210.3,"(a) amended; (f) added","22965"
+210.5,"(a) introductory text and (2) revised; (b)(3) amended; (d) added","22965"
+210.6,"(b) and (c) amended; (b)(1) and (2) revised","22966"
+210.9,"(a)(5) revised","22966"
+210.12,"(a) amended; (d) through (g) redesignated as (e) through (h); new (d) and (i) added; (c) introductory text, (2), new (e) concluding text and (h) revised","22966"

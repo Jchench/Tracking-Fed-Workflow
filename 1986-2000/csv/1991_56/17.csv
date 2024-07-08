@@ -1,13 +1,11 @@
 Part,Change,Page
-```csv
-201.51,Revised,1567, 6556, 22641, 48731, 58303
-201.52,Revised,1567, 6556, 22641, 48731, 58303
-202,Appendix A amended,51322
-202,Supplement I amended,14462, 16265
-203,Order,5746
-203.2,(c)(2) amended; (e)(2) revised,59857
-203.4,(a) introductory text revised,59857
-203.4,(a) introductory text corrected,66343
-203.6,(a) revised,59857
-203,Appendix A revised,59857
-```
+201.51,"Revised","1567, 6556, 22641, 48731, 58303"
+201.52,"Revised","1567, 6556, 22641, 48731, 58303"
+202,"Appendix A amended","51322"
+202,"Supplement I amended","14462, 16265"
+203,"Order","5746"
+203.2,"(c)(2) amended; (e)(2) revised","59857"
+203.4,"(a) introductory text revised","59857"
+203.4,"(a) introductory text corrected","66343"
+203.6,"(a) revised","59857"
+203,"Appendix A revised","59857"

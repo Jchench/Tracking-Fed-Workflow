@@ -1,36 +1,34 @@
 Part,Change,Page
-```
-202.12,"""(b)(6) added; eff. 1-30-98""",66419
-202.15,"""Added; eff. 1-30-98""",66419
-202,"""Supplement I added; eff. 1-30-98""",66419
-203.3,"""(a)(1)(ii) amended""",36043
-203.3,"""(a)(1)(ii) revised""",28623
-203.5,"""(b) and (e) revised; (c) amended""",28623
-203,"""Appendix A and Supplement I amended""",3604
-203,"""Appendix A amended""",28623, 28624
-203,"""Supplement I amended""",28626, 66260
-203,"""Appendix A correctly amended""",33340
-204.3,"""(b) revised""",34616
-204.3,"""(a)", (b)(1)," (2)(i) and (i) revised""",59778
-204.9,"""Revised""",61622
-205,"""Authority citation revised""",43469
-205.15,"""(a) revised""",43469
-207,"""OTC margin stock lists""",3773, 22881, 40257, 55495
-208,"""Authority citation revised""",6452, 13285, 47735
-208.8,"""(k) removed""",9911
-208.24,"""Added""",9911
-208.25,"""Added""",13285
-208.26,"""Added; interim""",6452
-208.28,"""Added""",47735
-208.129,"""Added""",13285
-208,"""(b) corrected""",15601
-208,"""Appendix E amended; interim""",68067, 68068
-209.15,"""Added""",34616
-210.2,"""(a) and (b) through (p)", redesignated as (b) and (d) through (r); new (a) and (c) added; new (d)," new (g) introductory text and (2) revised; eff. 1-2-98""",48171
-210.3(a),"""Amended; eff. 1-2-98""",48171
-210.4,"""Revised; eff. 1-2-98""",48171
-210.5,"""(a)(1) and (c) revised; (d) amended; eff. 1-2-98""",48171
-210.6,"""(a)(1) and (b) revised; eff. 1-2-98""",48172
-210.7,"""(c) introductory text and (d) revised; eff. 1-2-98""",48172
-210.8,"""Revised; eff. 1-2-98""",48172
-```
+202.12,"(b)(6) added; eff. 1-30-98","66419"
+202.15,"Added; eff. 1-30-98","66419"
+202,"Supplement I added; eff. 1-30-98","66419"
+203.3,"(a)(1)(ii) amended","36043"
+203.3,"(a)(1)(ii) revised","28623"
+203.5,"(b) and (e) revised; (c) amended","28623"
+203,"Appendix A and Supplement I amended","3604"
+203,"Appendix A amended","28623, 28624"
+203,"Supplement I amended","28626, 66260"
+203,"Appendix A correctly amended","33340"
+204.3,"(b) revised","34616"
+204.3,"(a), (b)(1), (2)(i) and (i) revised","59778"
+204.9,"Revised","61622"
+205,"Authority citation revised","43469"
+205.15,"(a) revised","43469"
+207,"OTC margin stock lists","3773, 22881, 40257, 55495"
+208,"Authority citation revised","6452, 13285, 47735"
+208.8,"(k) removed","9911"
+208.24,"Added","9911"
+208.25,"Added","13285"
+208.26,"Added; interim","6452"
+208.28,"Added","47735"
+208.129,"Added","13285"
+208,"(b) corrected","15601"
+208,"Appendix E amended; interim","68067, 68068"
+209.15,"Added","34616"
+210.2,"(a) and (b) through (p) redesignated as (b) and (d) through (r); new (a) and (c) added; new (d), new (g) introductory text and (2) revised; eff. 1-2-98","48171"
+210.3(a),"Amended; eff. 1-2-98","48171"
+210.4,"Revised; eff. 1-2-98","48171"
+210.5,"(a)(1) and (c) revised; (d) amended; eff. 1-2-98","48171"
+210.6,"(a)(1) and (b) revised; eff. 1-2-98","48172"
+210.7,"(c) introductory text and (d) revised; eff. 1-2-98","48172"
+210.8,"Revised; eff. 1-2-98","48172"

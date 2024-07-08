@@ -1,31 +1,29 @@
 Part,Change,Page
-```csv
-210.9,(a) through (e) redesignated as (b) through (f); new (a) added; new (b) and new (c) revised; new (f) amended; eff. 1-2-98,48172
-210.10,Revised; eff. 1-2-98,48173
-210.11(b),Amended; eff. 1-2-98,48173
-210.12,(a), (b), (c)(1) (f) and (h) revised; (d), (g) and (i) amended; eff. 1-2-98,48173
-211,Authority citation revised,13286, 47736
-211.22(d),Added,47736
-211.24,Heading revised; (h) added,13286
-213,Compliance date delay,51006, 53733
-213.1(a),Revised,15367
-213.2(f),Amended,15367
-213.4,(b), (f)(1), (n), (o)(1) heading and (2) heading revised; (t) added,15367
-213.5(d)(1),Revised,15367
-213.7,(d)(1)(ii) and (2)(iv) removed; (d)(1)(iii), (2)(v) and (vi) redesignated as (d)(1)(ii), (2)(iv) and (v); (b)(1), (d)(1)(i), (2)(ii), (iii), new (iv) and new (v) revised,15367
-213,Appendix A amended,15369
-213,Supplement I revised,16058
-215.2,(d) introductory text, (1), (2) and (3) redesignated as (d)(1) introductory text, (i), (ii) and (iii); new (d)(2), new (3) and (e)(3) added,13298
-215.4(a)(2),Introductory text revised,13298
-217.101(a)(1),Amended; (b) added,26737
-220,OTC margin stock lists,3773, 22881, 40257, 55495
-221,OTC margin stock lists,3773, 22881, 40257, 55495
-224,OTC margin stock lists,3773, 22881, 40257, 55495
-225.1—225.7,(Subpart A) Revised,9319
-225.11—225.17,(Subpart B) Revised,9324
-225.21—225.28,(Subpart C) Revised,9329
-225.24,(d)(2) revised; (d)(3) and (4) redesignated as (d)(4) and (5); new (d)(3) added,60640
-225.25,(b)(1) revised,60640
-225.31,(d)(2)(ii) amended,9338
-225.32,Removed,9338
-```
+210.9,"(a) through (e) redesignated as (b) through (f); new (a) added; new (b) and new (c) revised; new (f) amended; eff. 1-2-98","48172"
+210.10,"Revised; eff. 1-2-98","48173"
+210.11(b),"Amended; eff. 1-2-98","48173"
+210.12,"(a), (b), (c)(1) (f) and (h) revised; (d), (g) and (i) amended; eff. 1-2-98","48173"
+211,"Authority citation revised","13286, 47736"
+211.22(d),"Added","47736"
+211.24,"Heading revised; (h) added","13286"
+213,"Compliance date delay","51006, 53733"
+213.1(a),"Revised","15367"
+213.2(f),"Amended","15367"
+213.4,"(b), (f)(1), (n), (o)(1) heading and (2) heading revised; (t) added","15367"
+213.5(d)(1),"Revised","15367"
+213.7,"(d)(1)(ii) and (2)(iv) removed; (d)(1)(iii), (2)(v) and (vi) redesignated as (d)(1)(ii), (2)(iv) and (v); (b)(1), (d)(1)(i), (2)(ii), (iii), new (iv) and new (v) revised","15367"
+213,"Appendix A amended","15369"
+213,"Supplement I revised","16058"
+215.2,"(d) introductory text, (1), (2) and (3) redesignated as (d)(1) introductory text, (i), (ii) and (iii); new (d)(2), new (3) and (e)(3) added","13298"
+215.4(a)(2),"Introductory text revised","13298"
+217.101(a)(1),"Amended; (b) added","26737"
+220,"OTC margin stock lists","3773, 22881, 40257, 55495"
+221,"OTC margin stock lists","3773, 22881, 40257, 55495"
+224,"OTC margin stock lists","3773, 22881, 40257, 55495"
+225.1—225.7 (Subpart A),"Revised","9319"
+225.11—225.17 (Subpart B),"Revised","9324"
+225.21—225.28 (Subpart C),"Revised","9329"
+225.24,"(d)(2) revised; (d)(3) and (4) redesignated as (d)(4) and (5); new (d)(3) added","60640"
+225.25,"(b)(1) revised","60640"
+225.31,"(d)(2)(ii) amended","9338"
+225.32,"Removed","9338"

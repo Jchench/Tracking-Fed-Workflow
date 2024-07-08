@@ -1,36 +1,34 @@
 Part,Change,Page
-```csv
-221, OTC margin stock list, 3773, 19548, 35805, 55442
-221.3, (i)(1)(i), (ii) and (3) revised, 46111
-, (i)(1)(i) correctly designated, 66120
-221.124, Added, 46228
-224, OTC margin stock list, 3773, 19548, 35805, 55442
-225, Heading corrected, 1229
-225.6, (a) amended, 38052
-225, Appendix A amended, 51156
-226, Preemption determination, 3005
-, Authority citation revised, 13754
-, Supplement I amended, 13754
-, Supplement I corrected, 22200, 23993
-, Appendix I amended, 51322
-228.4, Regulation at 55 FR 26627 confirmed, 26902
-228.5, Regulation at 55 FR 26626 confirmed; (a)(3) and (c)(3) revised, 26902
-228.6, Regulation at 55 FR 26627 confirmed, 26902
-229.12, (a), (b) introductory text (4) and (c)(1) introductory text revised; (d) amended and (f) revised; final, 7801
-, (a), (b) introductory text, (4), (c)(1) introductory text, (d) and (f) corrected, 66343
-229, Appendixes C and E amended; final, 7802
-, Appendix E corrected, 66343
-250.101, Regulation at 55 FR 52987 effective date corrected, 627
-250.102, Regulation at 55 FR 52987 effective date corrected, 627
-250.103, Regulation at 55 FR 52987 effective date corrected, 627
-250.104, Regulation at 55 FR 52987 effective date corrected, 627
-261.10, Regulation at 55 FR 49877 confirmed , 29412
-262.3, (i)(2) amended, 38052
-, (i)(2) corrected, 60056
-263, Revised, 38052
-263.16, Corrected, 60056
-265, Revised, 25619
-, Authority citation revised, 67153
-265.2, (c)(10) and (f)(7)(i) revised; (c)(24), (26) and (f)(7)(ii) removed; (f)(50) and (51) added, 6261
-, (b)(14), (c)(37) and (f)(52) added , 8687
-```
+221,"OTC margin stock list","3773, 19548, 35805, 55442"
+221.3,"(i)(1)(i), (ii) and (3) revised","46111"
+221.3,"(i)(1)(i) correctly designated","66120"
+221.124,"Added","46228"
+224,"OTC margin stock list","3773, 19548, 35805, 55442"
+225,"Heading corrected","1229"
+225.6,"(a) amended","38052"
+225,"Appendix A amended","51156"
+226,"Preemption determination","3005"
+226,"Authority citation revised","13754"
+226,"Supplement I amended","13754"
+226,"Supplement I corrected","22200, 23993"
+226,"Appendix I amended","51322"
+228.4,"Regulation at 55 FR 26627 confirmed","26902"
+228.5,"Regulation at 55 FR 26626 confirmed; (a)(3) and (c)(3) revised","26902"
+228.6,"Regulation at 55 FR 26627 confirmed","26902"
+229.12,"(a), (b) introductory text (4) and (c)(1) introductory text revised; (d) amended and (f) revised; final","7801"
+229.12,"(a), (b) introductory text, (4), (c)(1) introductory text, (d) and (f) corrected","66343"
+229,"Appendixes C and E amended; final","7802"
+229,"Appendix E corrected","66343"
+250.101,"Regulation at 55 FR 52987 effective date corrected","627"
+250.102,"Regulation at 55 FR 52987 effective date corrected","627"
+250.103,"Regulation at 55 FR 52987 effective date corrected","627"
+250.104,"Regulation at 55 FR 52987 effective date corrected","627"
+261.10,"Regulation at 55 FR 49877 confirmed","29412"
+262.3,"(i)(2) amended","38052"
+262.3,"(i)(2) corrected","60056"
+263,"Revised","38052"
+263.16,"Corrected","60056"
+265,"Revised","25619"
+265,"Authority citation revised","67153"
+265.2,"(c)(10) and (f)(7)(i) revised; (c)(24), (26) and (f)(7)(ii) removed; (f)(50) and (51) added","6261"
+265.2,"(b)(14), (c)(37) and (f)(52) added","8687"

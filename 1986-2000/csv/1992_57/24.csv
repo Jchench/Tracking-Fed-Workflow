@@ -1,27 +1,25 @@
 Part,Change,Page
-```csv
-217.602,Removed; eff. 3-21-93,43336
-217.603,Removed; eff. 3-21-93,43336
-220,OTC margin stock list,2997, 15220, 33101, 48939
-221,OTC margin stock list,2997, 15220, 33101, 48939
-224,OTC margin stock list,2997, 15220, 33101, 48939
-225,Authority citation revised,21207, 22426, 43890, 60720, 62180
-225,Temporary exceptions,54173
-225.2,(g) through (o) redesignated as (h) through (p); new (g) added,41387
-225.4,(f) added,21207
-225,Regulation at 57 FR 21207 republished,22426
-225.11,(f) added; interim,13001
-225.12,(f) added; interim,13001
-225.12,(d) introductory text, (1) and (2) redesignated as (d)(1) introductory text, (i) and (ii); (d)(2) added,28778
-225.13,(a) introductory text and (b)(2) revised; (b)(4) and (5) added; interim,13003
-225.14,(b)(3) added,41642
-225.23,(f)(2) introductory text republished; (f)(2)(i) revised,28779
-225.25,Footnotes 7 through 14 redesignated as footnotes 8 through 15; (b)(5) introductory text, (i), (ii), (iii), (iv) introductory text, (A) through (D), (v) and (vi) redesignated as (b)(5)(i) introductory text, (A), (B), (C), (D) introductory text, (1) through (4), (E) and (F); new (b)(5) heading and (ii) added; (b)(5)(i) introductory text, (D) introductory text, (3) and (F) revised,20961
-225,Footnotes 3 through 15 redesignated as footnotes 4 through 16; (b)(4)(iv) amended; (b)(4)(v) and (15) revised; (b)(4)(vi) added,41387
-225.61—225.67 (Subpart G),Regulation at 55 FR 27771 compliance date revised,6
-225.125,(h) revised,30391
-225.132,(c)(2) amended,28779
-225.144,Removed,9973
-225,Appendix A amended,2012, 43890, 60720, 62180, 62182
-225,Appendix D amended,2013
-```
+217.602,"Removed; eff. 3-21-93","43336"
+217.603,"Removed; eff. 3-21-93","43336"
+220,"OTC margin stock list","2997, 15220, 33101, 48939"
+221,"OTC margin stock list","2997, 15220, 33101, 48939"
+224,"OTC margin stock list","2997, 15220, 33101, 48939"
+225,"Authority citation revised","21207, 22426, 43890, 60720, 62180"
+225,"Temporary exceptions","54173"
+225.2,"(g) through (o) redesignated as (h) through (p); new (g) added","41387"
+225.4,"(f) added","21207"
+225,"Regulation at 57 FR 21207 republished","22426"
+225.11,"(f) added; interim","13001"
+225.12,"(f) added; interim","13001"
+225.12,"(d) introductory text, (1) and (2) redesignated as (d)(1) introductory text, (i) and (ii); (d)(2) added","28778"
+225.13,"(a) introductory text and (b)(2) revised; (b)(4) and (5) added; interim","13003"
+225.14,"(b)(3) added","41642"
+225.23,"(f)(2) introductory text republished; (f)(2)(i) revised","28779"
+225.25,"Footnotes 7 through 14 redesignated as footnotes 8 through 15; (b)(5) introductory text, (i), (ii), (iii), (iv) introductory text, (A) through (D), (v) and (vi) redesignated as (b)(5)(i) introductory text, (A), (B), (C), (D) introductory text, (1) through (4), (E) and (F); new (b)(5) heading and (ii) added; (b)(5)(i) introductory text, (D) introductory text, (3) and (F) revised","20961"
+225,"Footnotes 3 through 15 redesignated as footnotes 4 through 16; (b)(4)(iv) amended; (b)(4)(v) and (15) revised; (b)(4)(vi) added","41387"
+225.61—225.67 (Subpart G),"Regulation at 55 FR 27771 compliance date revised","6"
+225.125,"(h) revised","30391"
+225.132,"(c)(2) amended","28779"
+225.144,"Removed","9973"
+225,"Appendix A amended","2012, 43890, 60720, 62180, 62182"
+225,"Appendix D amended","2013"

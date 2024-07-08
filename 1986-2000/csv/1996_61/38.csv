@@ -1,30 +1,28 @@
 Part,Change,Page
-```csv
-201.51,Revised,5926
-202,Supplement I amended,50950,50951
-204.2,(f)(1)(iii) revised; (f)(1)(iv) and (3) removed; (f)(1)(v) redesignated as (f)(1)(iv); (c)(1)(ii) introductory text, (iv)(C), (E), (d)(2), new (f)(1)(iv)(C), new (E), (h)(1)(ii)(A), (2)(ii) and (t) amended; eff. 4-1-97,69025
-204.3,(a)(3)(i), (ii) designation and (i)(5)(iv) removed; (f)(1) revised; (h)(1), (2), (i)(1)(ii) and (4)(ii) amended; eff. 4-1-97,69025
-204.4,Revised; eff. 4-1-97,69025
-204.7,(a)(1) amended; eff. 4-1-97,69025
-204.8,(a)(2)(i)(B)(5) and (3)(v) amended; eff. 4-1-97,69025
-204.9,(a) revised,60173
-204.9,(b) removed; (a)(1) and (2) redesignated as (a) and (b); eff. 4-1-97,69025
-205.1,Revised,19669
-205.2,Revised,19669
-205.3,Revised,19669
-205.4,Revised,19670
-205.5,Revised,19670
-205.6,Revised,19670
-205.7,Revised,19671
-205.8,Revised,19671
-205.9,Revised,19671
-205.10,Revised,19672
-205.11,Revised,19673
-205.12,Revised,19674
-205.13,Revised,19674
-205.14,Revised,19674
-205.15,Revised,19675
-205,Appendixes A and B revised; Appendix C added,19676
-205,Supplement I revised,19688
-205,Supplement II removed,19695
-```
+201.51,"Revised","5926"
+202,"Supplement I amended","50950, 50951"
+204.2,"(f)(1)(iii) revised; (f)(1)(iv) and (3) removed; (f)(1)(v) redesignated as (f)(1)(iv); (c)(1)(ii) introductory text, (iv)(C), (E), (d)(2), new (f)(1)(iv)(C), new (E), (h)(1)(ii)(A), (2)(ii) and (t) amended; eff. 4-1-97","69025"
+204.3,"(a)(3)(i), (ii) designation and (i)(5)(iv) removed; (f)(1) revised; (h)(1), (2), (i)(1)(ii) and (4)(ii) amended; eff. 4-1-97","69025"
+204.4,"Revised; eff. 4-1-97","69025"
+204.7,"(a)(1) amended; eff. 4-1-97","69025"
+204.8,"(a)(2)(i)(B)(5) and (3)(v) amended; eff. 4-1-97","69025"
+204.9,"(a) revised","60173"
+204.9,"(b) removed; (a)(1) and (2) redesignated as (a) and (b); eff. 4-1-97","69025"
+205.1,"Revised","19669"
+205.2,"Revised","19669"
+205.3,"Revised","19669"
+205.4,"Revised","19670"
+205.5,"Revised","19670"
+205.6,"Revised","19670"
+205.7,"Revised","19671"
+205.8,"Revised","19671"
+205.9,"Revised","19671"
+205.10,"Revised","19672"
+205.11,"Revised","19673"
+205.12,"Revised","19674"
+205.13,"Revised","19674"
+205.14,"Revised","19674"
+205.15,"Revised","19675"
+205,"Appendixes A and B revised; Appendix C added","19676"
+205,"Supplement I revised","19688"
+205,"Supplement II removed","19695"

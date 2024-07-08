@@ -1,26 +1,24 @@
 Part,Change,Page
-```csv
-228.100,Removed,22201
-228,Appendix A added,22198
-,Appendix B added,22200
-229.1,(b)(2) revised,51670
-229.2,(e)(6), (s) and (ll) revised; (l) and (y) removed,51670
-229.12,Heading and (a) revised,51670
-229.13,(a) introductory text added; (a)(1)(iii) revised,51671
-229.16,(b)(2) amended,51671
-229.17,Revised,51671
-229.19,(b) introductory text, (c)(4)(i), (e)(1)(ii) and (2)(ii) revised,51671
-229.36,(e) revised,51671
-229,Appendixes A, B-1, B-2 and C amended,51671
-,Appendix E revised,51672
-,Appendix F amended,51703
-230.4,(b)(6)(iii) amended; interim,5130
-230.8,(c)(6)(ii) added; interim,5130
-230,Appendix A amended; interim,5130
-,Appendix B amended; interim,5131
-261a,Revised,3341
-263,Authority citation revised,35682
-263.300-263.305,(Subpart I) Added,35682
-265.6,(b)(2) revised; (b)(3) added,10307
-265.11,(e)(12) added,22257
-```
+228.100,"Removed","22201"
+228,"Appendix A added","22198"
+228,"Appendix B added","22200"
+229.1,"(b)(2) revised","51670"
+229.2,"(e)(6), (s) and (ll) revised; (l) and (y) removed","51670"
+229.12,"Heading and (a) revised","51670"
+229.13,"(a) introductory text added; (a)(1)(iii) revised","51671"
+229.16,"(b)(2) amended","51671"
+229.17,"Revised","51671"
+229.19,"(b) introductory text, (c)(4)(i), (e)(1)(ii) and (2)(ii) revised","51671"
+229.36,"(e) revised","51671"
+229,"Appendixes A, B-1, B-2 and C amended","51671"
+229,"Appendix E revised","51672"
+229,"Appendix F amended","51703"
+230.4,"(b)(6)(iii) amended; interim","5130"
+230.8,"(c)(6)(ii) added; interim","5130"
+230,"Appendix A amended; interim","5130"
+230,"Appendix B amended; interim","5131"
+261a,"Revised","3341"
+263,"Authority citation revised","35682"
+263.300-263.305 (Subpart I),"Added","35682"
+265.6,"(b)(2) revised; (b)(3) added","10307"
+265.11,"(e)(12) added","22257"
