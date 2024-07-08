@@ -1,23 +1,21 @@
 Part,Change,Page
-```
-201, Authority citation revised, 11903, 16673
-201.51, Revised,11903, 16673, 26543, 30847
-201.52, Revised, 11903, 16673, 26543, 30847
-201.53, Removed, 11903, 16673, 26543, 30847
-201.53, Removed, 11904
-204, Authority citation revised, 43176
-204.2, Introductory text, (b) through (e), (f)(1)(i), (ii), and (v) revised; (f)(3) added; (h)(1)(ii)(A) first footnote 1, (h)(2)(ii) second footnote 1, and (t)(1) footnote 2 redesignated as footnotes 10, 11, and 12; new (h)(2)(ii) footnote 11 revised, 9632
-204.3, (a)(3)(i) and (h) revised, 9635
-204.4, (a) amended; (b) and (c) removed; (d) through (g) redesignated as (b) through (e); new (b), (c)(2)(ii), (d)(2), and (e)(1) and (2)(i) and (iii) amended, 9636
-204.8, (a)(2)(i)(B)(5) and (3)(v) and (e) amended, 9636
-204.9, (a) revised, 43176
-205, Supplement II amended, 13485
-207, OTC margin stock list, 3939, 15757, 27519, 39643
-207.112, Added, 1781
-210.2, Text amended; footnote 1 revised, 21744
-210.3, (e) added, 21744
-210.5, (a)(2), (b), and (c) revised, 21745
-210.6, (a)(1) revised; (c) added; eff. in part 1-1-90, 21745
-210.9, (a)(2) amended; eff. 1-1-87, 21745
-210.12, (c)(10) revised; (c)(11) added, 21745
-```
+201,"Authority citation revised","11903, 16673"
+201.51,"Revised","11903, 16673, 26543, 30847"
+201.52,"Revised","11903, 16673, 26543, 30847"
+201.53,"Removed","11903, 16673, 26543, 30847"
+201.53,"Removed",11904
+204,"Authority citation revised",43176
+204.2,"Introductory text, (b) through (e), (f)(1)(i), (ii), and (v) revised; (f)(3) added; (h)(1)(ii)(A) first footnote 1, (h)(2)(ii) second footnote 1, and (t)(1) footnote 2 redesignated as footnotes 10, 11, and 12; new (h)(2)(ii) footnote 11 revised",9632
+204.3,"(a)(3)(i) and (h) revised",9635
+204.4,"(a) amended; (b) and (c) removed; (d) through (g) redesignated as (b) through (e); new (b), (c)(2)(ii), (d)(2), and (e)(1) and (2)(i) and (iii) amended",9636
+204.8,"(a)(2)(i)(B)(5) and (3)(v) and (e) amended",9636
+204.9,"(a) revised",43176
+205,"Supplement II amended",13485
+207,"OTC margin stock list","3939, 15757, 27519, 39643"
+207.112,"Added",1781
+210.2,"Text amended; footnote 1 revised",21744
+210.3,"(e) added",21744
+210.5,"(a)(2), (b), and (c) revised",21745
+210.6,"(a)(1) revised; (c) added; eff. in part 1-1-90",21745
+210.9,"(a)(2) amended; eff. 1-1-87",21745
+210.12,"(c)(10) revised; (c)(11) added",21745
