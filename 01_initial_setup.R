@@ -1,27 +1,19 @@
-# Set the path to your folder
-folder_path <- "1973-1985/csv/1985_50"
+# Load necessary library
+library(dplyr)
 
-# List all CSV files in the folder
-file_list <- list.files(path = folder_path, pattern = "*.csv", full.names = TRUE)
+# Define the year value you want to add
+year_value <- 2007
 
-# Initialize an empty list to store the data frames
-data_frames <- list()
+# Read the CSV file
+data <- read.csv("2001-/csv_odd/2007.csv")
 
-# Loop through each file and read the data
-for (file in file_list) {
-  data <- read.csv(file)
-  
-  # Add the FedReg Number and Year columns
-    data$FedReg_Number <- 50
-    data$Year <- "1985"
-  
-  # Append the data frame to the list
-  data_frames <- append(data_frames, list(data))
-}
+# Add the new columns
+data <- data %>%
+  mutate(year = year_value,
+         fedreg_number = year_value - 1935)
 
-# Combine all data frames into one
-combined <- do.call(rbind, data_frames)
+# Write the updated data back to a CSV file
+write.csv(data, "2001-/2007_output.csv", row.names = FALSE)
 
-
-
-write.csv(combined, file = "1973-1985/csv/combine/1985_50.csv")
+# Print a message to confirm completion
+cat("Columns 'year' and 'fedreg_number' added successfully.\n")
