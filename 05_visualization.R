@@ -24,9 +24,9 @@ d2 <- d2 %>%
 # Add Action column to distinguish types of changes
 d2 <- d2 %>%
   mutate(Action = case_when(
-    str_detect(Change, regex("delete|remove|repeal", ignore_case = TRUE)) ~ "Deletion",
-    str_detect(Change, regex("add|addition|new", ignore_case = TRUE)) ~ "Addition",
-    str_detect(Change, regex("modify|amend|change", ignore_case = TRUE)) ~ "Modification",
+    str_detect(Change, regex("delete|remove|removal|repeal|revoke", ignore_case = TRUE)) ~ "Deletion",
+    str_detect(Change, regex("add|addition|new|designate", ignore_case = TRUE)) ~ "Addition",
+    str_detect(Change, regex("modify|modified|amend|change|revise|correct", ignore_case = TRUE)) ~ "Modification",
     TRUE ~ "Other"
   ))
 
