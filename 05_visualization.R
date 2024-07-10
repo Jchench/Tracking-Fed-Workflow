@@ -1,6 +1,8 @@
 library(tidyverse)
 library(ggthemes)
 library(stringr)
+library(ggforce)
+library(ggExtra)
 
 # Read the data
 folder_path <- "cleaned_csv/"
@@ -41,12 +43,63 @@ activity <- d2 %>%
 all_parts <- sort(unique(c(activity$Part, regs$`Part Number`)))
 activity$Part <- factor(activity$Part, levels = all_parts)
 
-# Plot the data
-ggplot(activity, aes(x = Year + approx_page_frac, y = Part, shape = Action, size = Action)) +
-  geom_point(alpha = 0.5, size = 2) +
-  theme_tufte() +
-  ggtitle("Activity by Part and Action Type") +
+# Ensure there are no non-finite values
+activity_clean <- activity %>%
+  filter(is.finite(Year + approx_page_frac) & !is.na(Part))
+
+# Ensure 'Part' is treated as a factor
+activity_clean$Part <- as.factor(activity_clean$Part)
+
+# Create the main scatter plot
+plot_1 <- ggplot(activity_clean, aes(x = Year + approx_page_frac, y = Part, shape = Action, color = Action)) +
+  geom_point(size = 2) +
   xlab("Year") +
-  scale_y_discrete(limits = all_parts) +
+  ylab("Part") +
+  scale_y_discrete(limits = all_parts, expand = c(0.1, 0.1)) +
   scale_shape_manual(values = c("Addition" = 16, "Deletion" = 17, "Modification" = 18, "Other" = 15)) +
-  scale_size_manual(values = c("Addition" = 3, "Deletion" = 4, "Modification" = 5, "Other" = 2))
+  scale_color_manual(values = c("Addition" = "black", "Deletion" = "darkgray", "Modification" = "gray", "Other" = "lightgray")) +
+  theme_tufte() +
+  theme(legend.position = "bottom")
+
+plot_1 + geom_rug(col = rgb(.5,0,0, alpha=.2))
+
+# Create the individual plots
+hist_top <- ggplot(activity_clean, aes(x = as.numeric(Year), fill = Action)) +
+  geom_histogram(bins = 50, color = "black") +
+  ggtitle("Activity by Part and Action Type") +
+  scale_fill_manual(values = c("Addition" = "black", "Deletion" = "darkgray", "Modification" = "gray", "Other" = "lightgray")) +
+  theme_tufte() +
+  theme(axis.ticks = element_blank(), 
+        panel.background = element_blank(), 
+        axis.text.x = element_blank(), 
+        axis.text.y = element_blank(),           
+        axis.title.x = element_blank(), 
+        axis.title.y = element_blank(),
+        panel.grid = element_blank(), 
+        legend.position = "none")
+
+empty <- ggplot() + 
+  geom_point(aes(1, 1), colour = "white") +
+  theme(axis.ticks = element_blank(), 
+        panel.background = element_blank(), 
+        axis.text.x = element_blank(), 
+        axis.text.y = element_blank(),           
+        axis.title.x = element_blank(), 
+        axis.title.y = element_blank())
+
+hist_right <- ggplot(activity_clean, aes(x = as.numeric(Part), fill = Action)) +
+  geom_histogram(bins = 50, color = "black") +
+  coord_flip() +
+  scale_fill_manual(values = c("Addition" = "black", "Deletion" = "darkgray", "Modification" = "gray", "Other" = "lightgray")) +
+  theme_tufte() +
+  theme(axis.ticks = element_blank(), 
+        panel.background = element_blank(), 
+        axis.text.x = element_blank(), 
+        axis.text.y = element_blank(),           
+        axis.title.x = element_blank(), 
+        axis.title.y = element_blank(),
+        panel.grid = element_blank(),
+        legend.position = "none")
+
+grid.arrange(hist_top, empty, plot_1, hist_right, ncol = 2, nrow = 2, widths = c(4, 1), heights = c(1, 4))
+
