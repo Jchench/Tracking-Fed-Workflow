@@ -34,6 +34,9 @@ d2 <- d2 %>%
     TRUE ~ "Other"
   ))
 
+# save out d2
+write_csv(d2, file = "cleaned_changes.csv")
+
 # Process activity data
 activity <- d2 %>%
   mutate(Page = as.numeric(Page)) %>%
